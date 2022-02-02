@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "npx http-server -p $PORT"
+  },
+  "devDependencies": {
+    "@vue/cli": "^4.5.15"
   }
 }
